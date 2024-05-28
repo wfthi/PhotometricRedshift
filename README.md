@@ -10,9 +10,12 @@ Validation is performed on an additional 6000 galaxies. The left panel shows pre
 
 Here are the results for the train data
 
-![fig_photoz_Ensemble_train](https://github.com/wfthi/PhotometricRedshift/assets/94956037/f3037ada-c55f-4b14-95ae-c9dce63263c4)
+![fig_photoz_Ensemble_train](https://github.com/wfthi/PhotometricRedshift/assets/94956037/a1553e5e-2194-4fa4-b9b5-06b6de4e7bc3)
 
 And here are the results for the test data
 
-![fig_photoz_Ensemble_test](https://github.com/wfthi/PhotometricRedshift/assets/94956037/76d6c6ca-1bfa-41f9-a840-2490500b7353)
+![fig_photoz_Ensemble_test](https://github.com/wfthi/PhotometricRedshift/assets/94956037/a22729f6-80e6-4ea8-9b1b-b53a0b6e3b2c)
+
+
+
 
